@@ -2,6 +2,8 @@
 
 **JsWeb Tech** is an open-source technology organization focused on building modern, powerful, and developer-friendly software tools. Our mission is to create simple yet scalable solutions that help developers build faster and better.
 
+**Founder** : [JOnes Peter](https://jonespeter.site) 
+
 ---
 
 ## 🌟 What We Build
